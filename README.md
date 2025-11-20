@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFF&width=435&lines=Hello%2C+it's+Helder+Esteves;Developper student" alt="Business Analyst"/>
 </a> -->
 
-<div style="width:100%; display:flex; justify-content:center;">
+<div align=center>
     <img src="name.svg"/>
 </div>
 
@@ -25,7 +25,7 @@
 ### Web
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,php,mysql&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,materialui,tailwind,php,mysql&perline=4" /> 
 </div>
 
 </td>
@@ -44,16 +44,12 @@
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=md,git,github,npm,figma,vscode,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=md,git,github,npm,figma,eclipse,vscode,discord,linux,windows&perline=4" /> 
 </div>
 </a>
 </td>
 </tr>
 </table>
-
-### Tools
-
-[![Tools](https://skillicons.dev/icons?i=eclipse,vscode,github,git,figma)](https://skillicons.dev)
 
 ### Connect with me!
 
