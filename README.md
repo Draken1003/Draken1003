@@ -59,8 +59,9 @@
 
 <div>
     <a href="https://www.linkedin.com/in/helder-esteves-b45088338/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=ffffff" alt="LinkedIn" width="35" height="35"/>
     </a>
+
 </div>
 
 <!-- ### Employer ?
