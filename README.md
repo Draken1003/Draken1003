@@ -20,7 +20,7 @@
 ### Web
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite,materialui,tailwind,php,mysql&perline=4" /> 
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite,materialui,tailwind,php,mysql&perline=4" /> 
 </div>
 
 </td>
@@ -39,7 +39,7 @@
 ### Others
 <a href="https://github.com/tayyabadev">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=md,git,github,npm,figma,eclipse,vscode,discord,linux,windows&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=md,git,github,nodejs,figma,eclipse,idea,vscode,discord,linux,windows&perline=4" /> 
 </div>
 </a>
 </td>
